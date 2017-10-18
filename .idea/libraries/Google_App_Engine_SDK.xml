@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Google App Engine SDK" type="python">
+  <library name="Google App Engine SDK">
     <CLASSES>
       <root url="file://$APPLICATION_HOME_DIR$/bin" />
       <root url="file:///lib/lsb" />

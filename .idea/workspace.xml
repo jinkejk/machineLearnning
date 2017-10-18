@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2d8fd09-b772-4ae9-a9a0-7626b65c406d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SVM/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Apriori/apriori.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Google_App_Engine_SDK.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Google_App_Engine_SDK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/SVM/svm.py" afterPath="$PROJECT_DIR$/src/algorithm/SVM/svm.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,64 +15,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python01$test05.coverage" NAME="test05 Coverage Results" MODIFIED="1507776177079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1507960948475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1508223647047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm/LogisticRegression" />
-    <SUITE FILE_PATH="coverage/python01$helloWorld.coverage" NAME="helloWorld Coverage Results" MODIFIED="1507960685886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$Unittests_for_test09_test_test_init2.coverage" NAME="Unittests for test09.test.test_init2 Coverage Results" MODIFIED="1507898320576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$test11.coverage" NAME="test11 Coverage Results" MODIFIED="1508162928429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" />
-    <SUITE FILE_PATH="coverage/python01$test07.coverage" NAME="test07 Coverage Results" MODIFIED="1507779050016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python01$Unittests_for_test09_test_test_init.coverage" NAME="Unittests for test09.test.test_init Coverage Results" MODIFIED="1507897904555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$svm.coverage" NAME="svm Coverage Results" MODIFIED="1508227458005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm/SVM" />
-    <SUITE FILE_PATH="coverage/python01$KNN.coverage" NAME="KNN Coverage Results" MODIFIED="1507981848230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm" />
-    <SUITE FILE_PATH="coverage/python01$Naivebayes.coverage" NAME="Naivebayes Coverage Results" MODIFIED="1508144650004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm/NaiveBayes" />
-    <SUITE FILE_PATH="coverage/python01$test06.coverage" NAME="test06 Coverage Results" MODIFIED="1507961274614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$KNN_Image.coverage" NAME="KNN_Image Coverage Results" MODIFIED="1508135655095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm" />
-    <SUITE FILE_PATH="coverage/python01$id3_c4_5_tree.coverage" NAME="id3_c4.5_tree Coverage Results" MODIFIED="1508135819831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm/DecisionTree" />
-    <SUITE FILE_PATH="coverage/python01$test03.coverage" NAME="test03 Coverage Results" MODIFIED="1507728512377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$test07__1_.coverage" NAME="test07 (1) Coverage Results" MODIFIED="1507884430788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$treePlotter.coverage" NAME="treePlotter Coverage Results" MODIFIED="1508134499813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm/DecisionTree" />
-    <SUITE FILE_PATH="coverage/python01$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1507971971601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$testNB.coverage" NAME="testNB Coverage Results" MODIFIED="1508146779204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm/NaiveBayes" />
-    <SUITE FILE_PATH="coverage/python01$test04.coverage" NAME="test04 Coverage Results" MODIFIED="1507775153932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$testTrees.coverage" NAME="testTrees Coverage Results" MODIFIED="1508138321044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/algorithm/DecisionTree" />
-    <SUITE FILE_PATH="coverage/python01$test08.coverage" NAME="test08 Coverage Results" MODIFIED="1507886287571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/python01$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1507961865313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-  </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="svm.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/SVM/svm.py">
+      <file leaf-file-name="apriori.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/Apriori/apriori.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="115" column="39" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+            <state relative-caret-position="279">
+              <caret line="72" column="32" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
               <folding>
-                <element signature="e#95#108#0" expanded="true" />
+                <element signature="e#81#99#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testSet.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/SVM/testSet.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1845">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test11.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/test11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +40,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>frozenset</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/test/test11.py" />
         <option value="$PROJECT_DIR$/src/algorithm/LogisticRegression/logRegres.py" />
         <option value="$PROJECT_DIR$/src/algorithm/SVM/svm.py" />
+        <option value="$PROJECT_DIR$/src/algorithm/Apriori/apriori.py" />
       </list>
     </option>
   </component>
@@ -149,7 +110,9 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -165,9 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,27 +153,24 @@
               <item name="python01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SVM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Apriori" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15362035" />
     <property name="project.structure.side.proportion" value="0.4678179" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/KNN" />
+    <property name="last_opened_file_path" value="/usr/bin/python3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -238,25 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.svm">
-    <configuration name="Naivebayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algorithm/NaiveBayes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python01" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algorithm/NaiveBayes/Naivebayes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.apriori">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -337,6 +278,23 @@
       <envs />
       <properties />
       <listeners />
+    </configuration>
+    <configuration name="apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algorithm/Apriori" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python01" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algorithm/Apriori/apriori.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration name="logRegres" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -429,21 +387,17 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="App Engine server.python01" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Naivebayes" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.logRegres" />
+      <item index="1" class="java.lang.String" itemvalue="Python.svm" />
       <item index="2" class="java.lang.String" itemvalue="Python.test11" />
       <item index="3" class="java.lang.String" itemvalue="Python.testNB" />
-      <item index="4" class="java.lang.String" itemvalue="Python.logRegres" />
-      <item index="5" class="java.lang.String" itemvalue="Python.svm" />
+      <item index="4" class="java.lang.String" itemvalue="Python.apriori" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.svm" />
-        <item index="1" class="java.lang.String" itemvalue="Python.logRegres" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test11" />
-        <item index="3" class="java.lang.String" itemvalue="Python.testNB" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Naivebayes" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.apriori" />
+        <item index="1" class="java.lang.String" itemvalue="Python.svm" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +425,8 @@
       <workItem from="1507947974981" duration="20876000" />
       <workItem from="1508122972287" duration="27875000" />
       <workItem from="1508159954404" duration="3188000" />
-      <workItem from="1508219700865" duration="8758000" />
+      <workItem from="1508219700865" duration="9022000" />
+      <workItem from="1508315023003" duration="16000" />
     </task>
     <servers />
   </component>
@@ -502,41 +457,40 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94534000" />
+    <option name="totallyTimeSpent" value="94814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1849" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296027" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29266927" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22719643" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958031" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39362913" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39338654" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,14 +501,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-      <option name="time" value="71" />
+      <option name="time" value="86" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -563,7 +510,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jinke/test04.py" />
     <entry file="file://$PROJECT_DIR$/data/text">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -775,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/DecisionTree/testTrees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/lib/python3.5/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -835,7 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -843,7 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,9 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1584">
           <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding>
-            <element signature="e#99#112#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,28 +799,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SVM/digits/testDigits/1_0.txt">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SVM/digits/testDigits/1_0.txt" />
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SVM/testSet.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="144">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SVM/testSet.txt">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/DecisionTree/testTrees.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1845">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/SVM/svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="115" column="39" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        <state relative-caret-position="-1344">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Apriori/apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="72" column="32" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
           <folding>
-            <element signature="e#95#108#0" expanded="true" />
+            <element signature="e#81#99#0" expanded="true" />
           </folding>
         </state>
       </provider>
