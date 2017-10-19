@@ -1,7 +1,7 @@
 '''
     author : jinke
     github: https://github.com/jinkejk
-    apriori:算法
+    apriori:算法, 只实现了频繁挖掘
 '''
 import os
 basePath = os.path.abspath('.')
