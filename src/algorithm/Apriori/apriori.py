@@ -3,7 +3,6 @@
     github: https://github.com/jinkejk
     apriori:算法
 '''
-import numpy as np
 import os
 basePath = os.path.abspath('.')
 
